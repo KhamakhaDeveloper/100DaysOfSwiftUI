@@ -11,9 +11,9 @@ In this challenge we will cover one ***_SwiftUI_*** topic every week .
 
 ## ScreenGifs
 
-|         | Our Progress  |
-----------|-----------------
-<a href="https://swifstor.com"><img src="swiftui_lesson1.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson2.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson3.gif" /></a>
+| Attempt | #1  | #2  |
+| _Hello Pundit_ | _Image Challenge_ | _StackAndScroll_ |
+|<a href="https://swifstor.com"><img src="swiftui_lesson1.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson2.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson3.gif" /></a>|
 
 
 ## Open Source & Copying
