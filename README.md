@@ -10,10 +10,8 @@ In this challenge we will cover one ***_SwiftUI_*** topic every week .
 :two: | _StackAndScroll_ -  [Working with StackView And ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
 
 ## ScreenGifs
-
 | _Hello Pundit_ | _Image Challenge_ | _StackAndScroll_ |
-|<a href="https://swifstor.com"><img src="swiftui_lesson1.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson2.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson3.gif" /></a>|
-
+|<a href="https://swifstor.com"><img src="Images/swiftui_lesson1.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson2.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson3.gif" />|
 
 ## Open Source & Copying
 
