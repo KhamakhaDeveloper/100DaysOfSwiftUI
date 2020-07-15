@@ -5,10 +5,15 @@ In this challenge we will cover one ***_SwiftUI_*** topic every week .
 
 |         | Our Progress  |
 ----------|-----------------
-
 :zero: | _Hello Pundit_ - [Getting Started](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/HelloPundit).
 :one: | _Image Challenge_ -  [Working with images](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
 :two: | _StackAndScroll_ -  [Working with StackView And ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
+
+## ScreenGifs
+
+|         | Our Progress  |
+----------|-----------------
+<a href="https://swifstor.com"><img src="swiftui_lesson1.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson2.gif" /></a> | <a href="https://swifstor.com"><img src="swiftui_lesson3.gif" /></a>
 
 
 ## Open Source & Copying
