@@ -1,30 +1,23 @@
-# 100DaysOfSwiftUI
+<a href="https://swifstor.com"><img src="Images/swiftBanner.png" /></a>
 
-Swift UI - Zero to Hero
+In this challenge we will cover one ***_SwiftUI_*** topic every week .
 
-## Getting Started
 
-These is a hundred days exercise consist each day new swift UI Challenge.
+|         | Our Progress  |
+----------|-----------------
+:zero: | _Hello Pundit_ [Getting Started](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/HelloPundit).
+:one: | _Image Challenge_[Working with images](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
+:two: | _StackAndScroll_[Working with StackView And ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
 
-### Prerequisites
+## Open Source & Copying
 
-What things you need to install the software and how to install them
+This repo is absolutly free and for learning purpose. feel free to download the code or share.
+It is licensed under MIT so that you can use my code in your app, if you choose.
 
-```
-XCode 11.4 or Above (I would prefer great to have XCode 12)
-```
+However, **please do not forget to give star if it helps you**
 
-### Installing
+## Why are we building this?
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+- To Learn ***SwiftUI*** from scratch
+- To Help community learn and share
+- open contribution if possible
