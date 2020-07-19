@@ -8,9 +8,11 @@ In this challenge we will cover one ***_SwiftUI_*** topic every week .
 :zero: | _Hello Pundit_ - [Getting Started](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/HelloPundit).
 :one: | _Image Challenge_ -  [Working with images](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
 :two: | _StackAndScroll_ -  [Working with StackView And ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
+:three: | _PickerWithList_ScrollView_ -  [Working with Picker With List and ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/PickerWithList_ScrollView)
+
 
 ## ScreenGifs
-|<a href="https://swifstor.com"><img src="Images/swiftui_lesson1.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson2.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson3.gif" />|
+|<a href="https://swifstor.com"><img src="Images/swiftui_lesson1.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson2.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson3.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson4.gif" />
 
 ## Open Source & Copying
 
