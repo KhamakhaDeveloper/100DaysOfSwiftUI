@@ -3,12 +3,12 @@
 In this challenge we will cover one ***_SwiftUI_*** topic every week .
 
 
-|         | Our Progress  |
+|   Week      | Our Progress  |
 ----------|-----------------
-:zero: | _Hello Pundit_ - [Getting Started](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/HelloPundit).
-:one: | _Image Challenge_ -  [Working with images](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
-:two: | _StackAndScroll_ -  [Working with StackView And ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
-:three: | _PickerWithList_ScrollView_ -  [Working with Picker With List and ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/PickerWithList_ScrollView)
+:one: | _Hello Pundit_ - [Getting Started](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/HelloPundit).
+:two: | _Image Challenge_ -  [Working with images](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
+:three: | _StackAndScroll_ -  [Working with StackView And ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ImageChallenge)
+:four: | _PickerWithList_ScrollView_ -  [Working with Picker With List and ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/PickerWithList_ScrollView)
 
 
 ## ScreenGifs
