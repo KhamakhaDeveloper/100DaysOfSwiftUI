@@ -10,9 +10,10 @@ In this challenge we will cover one ***_SwiftUI_*** topic every week .
 :three: | _StackAndScroll_ -  [Working with StackView And ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/StackAndScroll)
 :four: | _PickerWithList_ScrollView_ -  [Working with Picker With List and ScrollView](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/PickerWithList_ScrollView)
 :five: | _TextField_N_Button_ -  [Designing Login view using textfield & button](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/TextFieldNButton)
+:six: | _ComplexView_ -  [Designing detail screen](https://github.com/KhamkhaDeveloper/100DaysOfSwiftUI/tree/master/ComplexView)
 
 ## ScreenGifs
-|<a href="https://swifstor.com"><img src="Images/swiftui_lesson1.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson2.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson3.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson4.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson5.gif" />
+|<a href="https://swifstor.com"><img src="Images/swiftui_lesson1.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson2.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson3.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson4.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson5.gif" />|<a href="https://swifstor.com"><img src="Images/swiftui_lesson6.gif" />
 
 ## Open Source & Copying
 
